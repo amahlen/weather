@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`succesfull matches the snapshot 1`] = `
+<form>
+  <input
+    name="city"
+    placeholder="City..."
+    type="text"
+  />
+  <input
+    name="country"
+    placeholder="Country..."
+    type="text"
+  />
+  <button>
+    Get Weather
+  </button>
+</form>
+`;
